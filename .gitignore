@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment secrets
+.env
+
+# Build/test/cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Project runtime artifacts
+logs/
+mlruns/
+chroma_db/
+models/
+reports/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
