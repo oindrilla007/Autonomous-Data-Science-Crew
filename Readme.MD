@@ -159,7 +159,7 @@ graph TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/RajAmbavane/autonomous-ds-crew.git
+git clone https://github.com/oindrilla007/Autonomous-Data-Science-Crew.git
 cd autonomous-ds-crew
 
 # Create virtual environment
@@ -181,7 +181,7 @@ cp .env.example .env
 
 ```bash
 # Clone the repository
-git clone https://github.com/RajAmbavane/autonomous-ds-crew.git
+git clone https://github.com/oindrilla007/Autonomous-Data-Science-Crew.git
 cd autonomous-ds-crew
 
 # Edit .env with your GROQ_API_KEY
@@ -550,16 +550,15 @@ flake8 .
 
 ## 💬 Support
 
-- **Issues:** [GitHub Issues](https://github.com/RajAmbavane/autonomous-ds-crew/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/RajAmbavane/autonomous-ds-crew/discussions)
-- **Email:** raj.ambavane@example.com
+- **Issues:** [GitHub Issues](https://github.com/oindrilla007/Autonomous-Data-Science-Crew/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/oindrilla007/Autonomous-Data-Science-Crew/discussions)
 
 ---
 
 
 <div align="center">
 
-**Built by [Raj Ambavane](https://github.com/RajAmbavane)**
+**Built by [Oindrilla](https://github.com/oindrilla007)**
 
 [⬆ Back to Top](#-autonomous-data-science-crew)
 
